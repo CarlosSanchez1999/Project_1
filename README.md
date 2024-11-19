@@ -53,7 +53,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 
 ## **Credits**
 - **Team Members**:
-  - **[Your Name]**: Descriptive statistics and comparison analysis.
+  - **[Carlos Fernando Sánchez Lozano]**: Descriptive statistics and comparison analysis.
   - **[Collaborator 1’s Name]**: Regional mapping and geographic trends.
   - **[Collaborator 2’s Name]**: Regression analysis and hypothesis testing.
 
