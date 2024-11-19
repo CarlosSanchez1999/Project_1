@@ -38,12 +38,15 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 
 ## **Usage**
 1. Each team member’s Jupyter Notebook contains the code for their specific analysis question:
-   - **Notebook 1**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
+   - **Carlos_Analysis**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
    - **Notebook 2**: Regional patterns of obesity and diabetes visualized on maps.
    - **dataExploration**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 2. **Visualizations**:
-   - Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
+   Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
+   - **Carlos_Visualizations**:png files of bargraphs, scatterplots, and a html of an interactive regional map of relationships between obesity/diabetes rates in metropolitan and population loss counties.
+   - **output_data_ages**:
+   - **Images**: png files of descriptive analysis and scatterplots of relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 3. **Steps to Run**:
    - Open the relevant Jupyter Notebook.
@@ -53,7 +56,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 
 ## **Credits**
 - **Team Members**:
-  - **[Carlos Fernando Sánchez Lozano]**: Descriptive statistics and comparison analysis.
+  - **[Carlos Fernando Sánchez Lozano]**: Developed the `Carlos_Analysis` Jupyter Notebook and created the `Carlos_Visualizations` folder, where all images generated from the notebook are stored.
   - **[Emiliano Zarza Camacho]**: Analysis to explore whether the population's age plays a positive or negative role in the relationship between obesity/diabetes rates and the number of fast-food restaurants.
   - **[Itzel Vázquez Sánchez]**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
