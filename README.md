@@ -1,4 +1,4 @@
-# **Health Analysis of Metropolitan and Population Loss Counties**
+# **Analyzing Health Disparities: The Relationship Between Obesity, Diabetes, and Environmental Factors in U.S. Counties**
 
 ## **Description**
 This project explores health disparities between metropolitan and population loss counties in the United States, focusing on obesity and diabetes rates. The analysis involves descriptive statistics, regional patterns, and regression analysis to uncover trends and correlations. Each team member worked on a specific research question to contribute to a comprehensive understanding of public health challenges.
