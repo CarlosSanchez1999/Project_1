@@ -41,6 +41,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
    - **Carlos_Analysis**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
    - **Notebook 2**: Regional patterns of obesity and diabetes visualized on maps.
    - **dataExploration**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
+   - **Data_Emiliano**: Descriptive analysis of how the age factor could protect more or make more vulnarable to the population to the effects of fast food on health
 
 2. **Visualizations**:
    Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
