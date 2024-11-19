@@ -41,11 +41,12 @@ The team overcame challenges such as cleaning complex datasets, handling missing
    - **Carlos_Analysis**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
    - **Notebook 2**: Regional patterns of obesity and diabetes visualized on maps.
    - **dataExploration**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
+   - **Data_Emiliano**: Descriptive analysis of how the age factor could protect more or make more vulnarable to the population to the effects of fast food on health
 
 2. **Visualizations**:
    Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
    - **Carlos_Visualizations**:png files of bargraphs, scatterplots, and a html of an interactive regional map of relationships between obesity/diabetes rates in metropolitan and population loss counties.
-   - **output_data_ages**:
+   - **output_data_ages**:png files of the histogramas and scatterplots of the t-test to determine the relationship between the number of fast-food restaurants and health deseases for the population over 65 and the popultion under 18 years old
    - **Images**: png files of descriptive analysis and scatterplots of relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 3. **Steps to Run**:
@@ -57,7 +58,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 ## **Credits**
 - **Team Members**:
   - **[Carlos Fernando Sánchez Lozano]**: Developed the `Carlos_Analysis` Jupyter Notebook and created the `Carlos_Visualizations` folder, where all images generated from the notebook are stored.
-  - **[Emiliano Zarza Camacho]**: Analysis to explore whether the population's age plays a positive or negative role in the relationship between obesity/diabetes rates and the number of fast-food restaurants.
+  - **[Emiliano Zarza Camacho]**: Analysis to explore whether the population's age plays a positive or negative role in the relationship between obesity/diabetes rates and the number of fast-food restaurants. You can find it on `Data_Emiliano`
   - **[Itzel Vázquez Sánchez]**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 **Data Source**: 
