@@ -39,7 +39,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 1. Each team member’s Jupyter Notebook contains the code for their specific analysis question:
    - **Notebook 1**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
    - **Notebook 2**: Regional patterns of obesity and diabetes visualized on maps.
-   - **Notebook 3**: Regression analysis to explore correlations between obesity and diabetes rates.
+   - **dataExploration**: Analysis to explore relationships between obesitydiabetes rates .
 
 2. **Visualizations**:
    - Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
@@ -57,6 +57,6 @@ The team overcame challenges such as cleaning complex datasets, handling missing
   - **[Collaborator 2’s Name]**: Regression analysis and hypothesis testing.
 
 **Data Source**: 
-  - [Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
+  - [Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/). (United States Department of Agriculture)
  
 
