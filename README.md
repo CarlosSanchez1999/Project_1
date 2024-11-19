@@ -54,7 +54,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 ## **Credits**
 - **Team Members**:
   - **[Carlos Fernando Sánchez Lozano]**: Descriptive statistics and comparison analysis.
-  - **[Collaborator 1’s Name]**: Regional mapping and geographic trends.
+  - **[Emiliano Zarza Camacho]**: Analysis to explore whether the population's age plays a positive or negative role in the relationship between obesity/diabetes rates and the number of fast-food restaurants.
   - **[Itzel Vázquez Sánchez]**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 **Data Source**: 
