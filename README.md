@@ -1,7 +1,8 @@
 # **Analyzing Health Disparities: The Relationship Between Obesity, Diabetes, and Environmental Factors in U.S. Counties**
 
 ## **Description**
-This project explores health disparities between metropolitan and population loss counties in the United States, focusing on obesity and diabetes rates. The analysis involves descriptive statistics, regional patterns, and regression analysis to uncover trends and correlations. Each team member worked on a specific research question to contribute to a comprehensive understanding of public health challenges.
+
+Our project focused on analyzing whether there is a significant relationship between the number of fast food restaurants and the prevalence of health conditions such as obesity and diabetes. To explore this, we utilized descriptive statistics, examined regional patterns, and conducted regression analyses to identify trends and potential correlations. Each team member contributed by addressing a specific research question, allowing us to build a comprehensive understanding of how fast food availability might influence public health outcomes. This approach enabled us to investigate broader public health challenges and disparities.
 
 ### **Motivation**
 The project aims to understand how urban and rural contexts influence public health, specifically regarding obesity and diabetes. By analyzing these disparities, we can identify key factors and propose targeted interventions.
