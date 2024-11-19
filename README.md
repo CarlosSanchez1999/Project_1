@@ -23,7 +23,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 2. [Installation Instructions](#installation-instructions)
 3. [Usage](#usage)
 4. [Credits](#credits)
-5. [License](#license)
+
 
 ---
 
@@ -57,9 +57,6 @@ The team overcame challenges such as cleaning complex datasets, handling missing
   - **[Collaborator 2’s Name]**: Regression analysis and hypothesis testing.
 
 **Data Source**: 
-  - Food Environment Atlas (United States Department of Agriculture)[https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/]
+  - [Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
  
-## **License**
-This project is licensed under the MIT License.
 
-Feel free to use, modify, and distribute the project, but please give appropriate credit to the original creators. See the `LICENSE` file for more details.
