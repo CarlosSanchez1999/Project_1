@@ -33,3 +33,33 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 3. Install the required Python libraries:
    ```bash
    pip install pandas matplotlib hvplot scipy numpy
+
+
+## **Usage**
+1. Each team member’s Jupyter Notebook contains the code for their specific analysis question:
+   - **Notebook 1**: Descriptive analysis and comparison of obesity and diabetes rates between metropolitan and population loss counties.
+   - **Notebook 2**: Regional patterns of obesity and diabetes visualized on maps.
+   - **Notebook 3**: Regression analysis to explore correlations between obesity and diabetes rates.
+
+2. **Visualizations**:
+   - Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
+
+3. **Steps to Run**:
+   - Open the relevant Jupyter Notebook.
+   - Run the cells sequentially to reproduce the analysis.
+   - Access saved visualizations in the `Visualizations` folder for insights.
+
+
+## **Credits**
+- **Team Members**:
+  - **[Your Name]**: Descriptive statistics and comparison analysis.
+  - **[Collaborator 1’s Name]**: Regional mapping and geographic trends.
+  - **[Collaborator 2’s Name]**: Regression analysis and hypothesis testing.
+
+**Data Source**: 
+  - Food Environment Atlas (United States Department of Agriculture)[https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/]
+ 
+## **License**
+This project is licensed under the MIT License.
+
+Feel free to use, modify, and distribute the project, but please give appropriate credit to the original creators. See the `LICENSE` file for more details.
