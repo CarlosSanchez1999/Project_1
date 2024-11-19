@@ -57,7 +57,7 @@ The team overcame challenges such as cleaning complex datasets, handling missing
 ## **Credits**
 - **Team Members**:
   - **[Carlos Fernando Sánchez Lozano]**: Developed the `Carlos_Analysis` Jupyter Notebook and created the `Carlos_Visualizations` folder, where all images generated from the notebook are stored.
-  - **[Collaborator 1’s Name]**: Regional mapping and geographic trends.
+  - **[Emiliano Zarza Camacho]**: Analysis to explore whether the population's age plays a positive or negative role in the relationship between obesity/diabetes rates and the number of fast-food restaurants.
   - **[Itzel Vázquez Sánchez]**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 **Data Source**: 
