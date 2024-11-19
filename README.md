@@ -43,7 +43,10 @@ The team overcame challenges such as cleaning complex datasets, handling missing
    - **dataExploration**: Analysis to explore relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 2. **Visualizations**:
-   - Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
+   Each notebook saves plots and maps into a shared `Visualizations` folder for easy access. These include scatter plots, bar charts, and geographic maps.
+   - **Carlos_Visualizations**:
+   - **output_data_ages**:
+   - **Images**: png files of descriptive analysis and scatterplots of relationships between obesity/diabetes rates and number of fast-food restaurants.
 
 3. **Steps to Run**:
    - Open the relevant Jupyter Notebook.
