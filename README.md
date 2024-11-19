@@ -5,7 +5,7 @@
 Our project focused on analyzing whether there is a significant relationship between the number of fast food restaurants and the prevalence of health conditions such as obesity and diabetes. To explore this, we utilized descriptive statistics, examined regional patterns, and conducted regression analyses to identify trends and potential correlations. Each team member contributed by addressing a specific research question, allowing us to build a comprehensive understanding of how fast food availability might influence public health outcomes. This approach enabled us to investigate broader public health challenges and disparities.
 
 ### **Motivation**
-The project aims to understand how urban and rural contexts influence public health, specifically regarding obesity and diabetes. By analyzing these disparities, we can identify key factors and propose targeted interventions.
+The project aims to investigate the potential relationship between the number of fast food restaurants and the prevalence of health conditions like obesity and diabetes. By identifying trends and correlations, we can better understand how the availability of fast food impacts public health and propose data-driven interventions to address these challenges.
 
 ### **Technologies Used**
 - Python
