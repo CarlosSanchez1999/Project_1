@@ -53,6 +53,8 @@ The team overcame challenges such as cleaning complex datasets, handling missing
    - Run the cells sequentially to reproduce the analysis.
    - Access saved visualizations in the `Visualizations` folder for insights.
 
+The repository also includes the Written Report in PDF and the presentation named "All about obesity" in PDF.
+
 
 ## **Credits**
 - **Team Members**:
